@@ -1,2 +1,2 @@
-# atom
-Performance first WordPress theme
+# Atom
+Performance First WordPress Theme
